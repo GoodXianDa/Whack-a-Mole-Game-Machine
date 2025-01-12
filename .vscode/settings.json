@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "equipment_struct.h": "c",
+        "arduino.h": "c",
+        "random": "cpp",
+        "cmath": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
